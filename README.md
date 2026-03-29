@@ -148,4 +148,5 @@ pawpal-plus/
 
 ## 📸 Demo
 
-*(Add a screenshot of your running Streamlit app here)*
+*<img width="3022" height="1419" alt="image" src="https://github.com/user-attachments/assets/2bb1df58-23ce-4a78-ad15-0e45eebcdaf0" />
+*
